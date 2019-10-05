@@ -1,4 +1,5 @@
 _logging/
+.vscode/
 *.cbp
 *.layout
 *.o
